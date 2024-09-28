@@ -4,7 +4,7 @@
   <br />
 </p>
 
-Mobile Software Developer with expertise in crossplatform development. Expertise in Flutter and React Native
+Mobile Software Developer with expertise in crossplatform development. Expertise in Flutter and Android(Kotlin)
 
 - 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
 - 💬 Ask me about anything Flutter 💙
