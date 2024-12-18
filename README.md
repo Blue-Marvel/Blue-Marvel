@@ -12,3 +12,5 @@ Mobile Software Developer with expertise in crossplatform development. Expertise
   - Email: marvellousogbo0@gmail.com
   - [Twitter](https://x.com/bluemarvel001)
   - [LinkedIn](https://www.linkedin.com/in/ogbo-marvellous/)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Marvel&layout=compact&theme=dark)
